@@ -55,7 +55,7 @@ fieldset {
   max-width: 720px;
   margin: 0 auto;
   font-size: 116px;
-  letter-spacing: 4.06px;
+  letter-spacing: 3.5px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -71,7 +71,7 @@ fieldset {
   top: 180px;
   right: 20px;
   max-width: 760px;
-  border: 2px solid #000;
+  border: 2px solid currentColor;
   border-radius: 20px;
   padding: 36px 44px;
   box-shadow: 0 14px 0 #000;
